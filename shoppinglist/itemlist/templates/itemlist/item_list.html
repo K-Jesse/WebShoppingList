@@ -1,0 +1,24 @@
+{% extends "itemlist/base.html" %}
+
+{% block content %}
+	<h1> Shopping list</h1>
+	<br>
+	
+	Add an item: <button onclick="window.location.href='/item/create'">Create</button>
+	<hr>
+	
+	{% for item in object_list %}
+	{{ item.name }}<br>
+	<i>Description: {{ item.description }}</i>
+	
+	<p>
+		
+		<button onclick="window.location.href='{{ item.get_absolute_url }}'">Details</button>
+		-
+		<button onclick="window.location.href='{{ item.get_absolute_url }}/update'">Edit</button>
+		-
+		<button onclick="window.location.href='{{ item.get_absolute_url }}/delete'">Delete</button>
+	</p>
+	{% endfor %}
+
+{% endblock content %}
