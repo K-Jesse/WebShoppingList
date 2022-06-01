@@ -10,6 +10,7 @@ Made with Django framwork and the knowledge form course by Tero Karvinen: https:
 
 Also used few fellow students (more advanced i might add) material as guidance:
 https://github.com/therealhalonen
+
 https://github.com/PutkisDude
 
 link to demo: http://jessekulmala.com/
