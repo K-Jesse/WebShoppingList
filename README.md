@@ -15,6 +15,7 @@ https://github.com/therealhalonen
 https://github.com/PutkisDude
 
 link to demo: http://jessekulmala.com/
+[Download](https://github.com/K-Jesse/WebShoppingList/archive/refs/heads/main.zip)
 
 This demo has been tested by a grand total of 1 test person (which is not me) without guidance, so i'm assuming it's pretty usable.
 
