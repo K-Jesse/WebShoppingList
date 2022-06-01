@@ -18,6 +18,20 @@ link to demo: http://jessekulmala.com/
 
 Click here to [Download](https://github.com/K-Jesse/WebShoppingList/archive/refs/heads/main.zip)
 
+```
+$sudo apt-get -y install virtualenv git
+$mkdir any_name
+$cd any_name
+$virtualenv env/ -p python3 --system-site-packages
+$git clone https://github.com/K-Jesse/WebShoppingList.git
+$source env/bin/activate
+$pip install -r requirements.txt
+$cd shoppinglist
+$./manage.py migrate
+$./manage.py createsuperuser
+$./manage.py runserver
+```
+
 This demo has been tested by a grand total of 1 test person (which is not me) without guidance, so i'm assuming it's pretty usable.
 
 ![image](pics/shopping_mainpage.jpg)
