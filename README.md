@@ -1,6 +1,6 @@
-#Shoppinglist App
+# Shoppinglist App
 
-##App for keeping track of your shopping needs in one place.
+## App for keeping track of your shopping needs in one place.
 
 Alpha Version
 
