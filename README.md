@@ -18,6 +18,7 @@ link to demo: http://jessekulmala.com/
 
 Click here to [Download](https://github.com/K-Jesse/WebShoppingList/archive/refs/heads/main.zip)
 
+## Installation
 ```
 $sudo apt-get -y install virtualenv git
 $mkdir any_name
