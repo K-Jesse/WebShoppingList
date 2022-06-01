@@ -16,4 +16,6 @@ https://github.com/PutkisDude
 
 link to demo: http://jessekulmala.com/
 
+This demo has been tested by a grand total of 1 test person (which is not me) without guidance, so i'm assuming it's pretty usable.
+
 ![image](pics/shopping_mainpage.jpg)
