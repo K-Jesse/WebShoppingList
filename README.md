@@ -9,6 +9,7 @@ Very barebones listing features. Everything *should* be functional. This project
 Made with Django framwork and the knowledge form course by Tero Karvinen: https://terokarvinen.com/2021/python-web-service-from-idea-to-production-2022/
 
 Also used few fellow students (more advanced i might add) material as guidance:
+
 https://github.com/therealhalonen
 
 https://github.com/PutkisDude
